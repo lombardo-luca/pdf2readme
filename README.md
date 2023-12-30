@@ -6,3 +6,4 @@ A simple Github Action that converts a PDF file into JPEG images and seamlessy u
 - Make sure that inside your repository there is a ***README.md*** file (you can just create a blank one) and the .pdf you want to convert.
 - Modify ***.github/workflows/pdf2readme.yml*** to point to your .pdf file *(line 25)*.
 - Trigger the action by using the ***"Run workflow"*** button on the ***"Actions"*** tab.
+![image](./converted_images/output-1.jpg)
