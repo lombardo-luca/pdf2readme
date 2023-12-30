@@ -11,9 +11,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Install Poppler
-        run: sudo apt-get install -y poppler-utils
-
       - name: Check and Create Directory
         run: |
           if [ ! -d converted_images ]; then
