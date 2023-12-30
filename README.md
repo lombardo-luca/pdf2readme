@@ -8,7 +8,7 @@ A simple Github Action that converts a PDF file into JPEG images and seamlessy u
 - Trigger the action by using the ```Run workflow``` button on the ```Actions``` tab.
 
 ## Credits:
-- This project is based on [PDFWriteupReadme](https://github.com/contagon/PDFWriteupReadme/tree/master) (apparently discontinued) by [contagon](https://github.com/contagon), which used ***ImageMagick*** instead of ***Poppler***, among other small differences. 
+- This project is based on [PDFWriteupReadme](https://github.com/contagon/PDFWriteupReadme/tree/master) (apparently discontinued) by [contagon](https://github.com/contagon), which used ***ImageMagick*** instead of ***Poppler***, among other differences. 
 
 ## Example:
 ![image](./converted_images/output-1.jpg)
