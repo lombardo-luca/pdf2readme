@@ -22,7 +22,7 @@ jobs:
 
       - name: Convert PDF to Images
         run: |
-          pdftoppm -jpeg -r 250 writeup.pdf converted_images/output
+          pdftoppm -jpeg -r 250 lorem-ipsum.pdf converted_images/output
 
       - name: Update README
         run: |
