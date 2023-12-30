@@ -1,4 +1,4 @@
-name: Convert-PDF-to-Images
+name: PDF-2-README
 
 on:
   workflow_dispatch:
