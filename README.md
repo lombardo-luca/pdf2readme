@@ -1,5 +1,5 @@
 # pdf2readme
-A simple Github action that converts a PDF file into JPEG images and seamlessy update your repository's README to showcase these images. 
+A simple Github Action that converts a PDF file into JPEG images and seamlessy update your repository's README to showcase these images. 
 
 ## How to use:
 - Copy the folder ***".github/workflows"*** and its contents into your Github repository.
